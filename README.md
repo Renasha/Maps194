@@ -27,8 +27,6 @@ Here's a walkthrough:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-## Notes
-Getting through the walkthrough video for this was dense since there were multiple layers to it. 
 ## License
 
     Copyright [2020] [Renasha Mishra]
